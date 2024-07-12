@@ -19,7 +19,7 @@ To run NeuroHeal locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ahmed-Kandeil/NeuroHeal-Medical-Platform-For-Medical-Diagnosis.git
+   git clone https://github.com/Ahmed-A-Kandil/NeuroHeal-Medical-Platform-For-Medical-Diagnosis.git
    cd neuroheal
    ```
 
